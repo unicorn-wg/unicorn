@@ -1,0 +1,224 @@
+
+
+
+
+Horsies                                                       M. Thomson
+Internet-Draft                                                   Mozilla
+Intended status: Experimental                              June 23, 2014
+Expires: December 25, 2014
+
+
+                            Unicorn Protocol
+                     draft-unicorn-protocol-latest
+
+Abstract
+
+   Unicorns are awesome.
+
+Status of This Memo
+
+   This Internet-Draft is submitted in full conformance with the
+   provisions of BCP 78 and BCP 79.
+
+   Internet-Drafts are working documents of the Internet Engineering
+   Task Force (IETF).  Note that other groups may also distribute
+   working documents as Internet-Drafts.  The list of current Internet-
+   Drafts is at http://datatracker.ietf.org/drafts/current/.
+
+   Internet-Drafts are draft documents valid for a maximum of six months
+   and may be updated, replaced, or obsoleted by other documents at any
+   time.  It is inappropriate to use Internet-Drafts as reference
+   material or to cite them other than as "work in progress."
+
+   This Internet-Draft will expire on December 25, 2014.
+
+Copyright Notice
+
+   Copyright (c) 2014 IETF Trust and the persons identified as the
+   document authors.  All rights reserved.
+
+   This document is subject to BCP 78 and the IETF Trust's Legal
+   Provisions Relating to IETF Documents
+   (http://trustee.ietf.org/license-info) in effect on the date of
+   publication of this document.  Please review these documents
+   carefully, as they describe your rights and restrictions with respect
+   to this document.  Code Components extracted from this document must
+   include Simplified BSD License text as described in Section 4.e of
+   the Trust Legal Provisions and are provided without warranty as
+   described in the Simplified BSD License.
+
+
+
+
+
+
+
+Thomson                 Expires December 25, 2014               [Page 1]
+
+Internet-Draft                  Unicorns                       June 2014
+
+
+Table of Contents
+
+   1.  Introduction  . . . . . . . . . . . . . . . . . . . . . . . .   2
+     1.1.  The Need for Standardization  . . . . . . . . . . . . . .   2
+   2.  Basic Protocol Operation  . . . . . . . . . . . . . . . . . .   2
+   3.  Security Considerations . . . . . . . . . . . . . . . . . . .   3
+   4.  References  . . . . . . . . . . . . . . . . . . . . . . . . .   3
+     4.1.  Normative References  . . . . . . . . . . . . . . . . . .   3
+     4.2.  Informative References  . . . . . . . . . . . . . . . . .   4
+   Author's Address  . . . . . . . . . . . . . . . . . . . . . . . .   4
+
+1.  Introduction
+
+   I want a pony.  A unicorn would be better.
+
+1.1.  The Need for Standardization
+
+   Needs and wants.  Wants are all that matter.
+   And I want a pony... or a unicorn.
+
+2.  Basic Protocol Operation
+
+   I say that I want a pony - I mean a unicorn - and you give me one.
+
+   Then I ride it, and ride it and ride it.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Thomson                 Expires December 25, 2014               [Page 2]
+
+Internet-Draft                  Unicorns                       June 2014
+
+
+                            //|                              ,|
+                          //,/                             -~ |
+                        // / |                         _-~   /  ,
+                      /'/ / /                       _-~   _/_-~ |
+                     ( ( / /'                   _ -~     _-~ ,/'
+                      \~\/'/|             __--~~__--\ _-~  _/,
+              ,,)))))));, \/~-_     __--~~  --~~  __/~  _-~ /
+           __))))))))))))));,>/\   /        __--~~  \-~~ _-~
+          -\(((((''''(((((((( >~\/     --~~   __--~' _-~ ~|
+ --==//////((''  .     `)))))), /     ___---~~  ~~\~~__--~
+         ))| @    ;-.     (((((/           __--~~~'~~/
+         ( `|    /  )      )))/      ~~~~~__\__---~~__--~~--_
+            |   |   |       (/      ---~~~/__-----~~  ,;::'  \         ,
+            o_);   ;        /      ----~~/           \,-~~~\  |       /|
+                  ;        (      ---~~/         `:::|      |;|      < >
+                 |   _      `----~~~~'      /      `:|       \;\_____//
+           ______/\/~    |                 /        /         ~------~
+         /~;;.____/;;'  /          ___----(   `;;;/
+        / //  _;______;'------~~~~~    |;;/\    /
+       //  | |                        /  |  \;;,\
+      (<_  | ;                      /',/-----'  _>
+       \_| ||_                     //~;~~~~~~~~~
+           `\_|                   (,~~
+                                   \~\
+                                    ~~
+
+                      Figure 1: A Unicorn with Wings
+
+3.  Security Considerations
+
+   If I don't get a pony (with a horn on its head), I'll scream!
+
+4.  References
+
+4.1.  Normative References
+
+   [RFC2119]  Bradner, S., "Key words for use in RFCs to Indicate
+              Requirement Levels", BCP 14, RFC 2119, March 1997.
+
+   [RFC3986]  Berners-Lee, T., Fielding, R., and L. Masinter, "Uniform
+              Resource Identifier (URI): Generic Syntax", STD 66, RFC
+              3986, January 2005.
+
+   [RFC4086]  Eastlake, D., Schiller, J., and S. Crocker, "Randomness
+              Requirements for Security", BCP 106, RFC 4086, June 2005.
+
+   [RFC4648]  Josefsson, S., "The Base16, Base32, and Base64 Data
+              Encodings", RFC 4648, October 2006.
+
+
+
+Thomson                 Expires December 25, 2014               [Page 3]
+
+Internet-Draft                  Unicorns                       June 2014
+
+
+4.2.  Informative References
+
+   [I-D.ietf-behave-turn]
+              Rosenberg, J., Mahy, R., and P. Matthews, "Traversal Using
+              Relays around NAT (TURN): Relay Extensions to Session
+              Traversal Utilities for NAT (STUN)", draft-ietf-behave-
+              turn-16 (work in progress), July 2009.
+
+   [I-D.ietf-xmpp-3920bis]
+              Saint-Andre, P., "Extensible Messaging and Presence
+              Protocol (XMPP): Core", draft-ietf-xmpp-3920bis-22 (work
+              in progress), December 2010.
+
+   [I-D.meyer-xmpp-e2e-encryption]
+              Meyer, D. and P. Saint-Andre, "XTLS: End-to-End Encryption
+              for the Extensible Messaging and Presence Protocol (XMPP)
+              Using Transport Layer Security (TLS)", draft-meyer-xmpp-
+              e2e-encryption-02 (work in progress), June 2009.
+
+   [RFC5389]  Rosenberg, J., Mahy, R., Matthews, P., and D. Wing,
+              "Session Traversal Utilities for NAT (STUN)", RFC 5389,
+              October 2008.
+
+   [STUNT]    Hanson, R., "STUNT & out-of-band channels", September
+              2007, <http://deusty.blogspot.com/2007/09/
+              stunt-out-of-band-channels.html>.
+
+Author's Address
+
+   Martin Thomson
+   Mozilla
+
+   Email: martin.thomson@gmail.com
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Thomson                 Expires December 25, 2014               [Page 4]
